@@ -1,0 +1,6 @@
+[06-Dec-2021 10:13:13 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/brbmn/public_html/vendor/composer/autoload_static.php on line 2312
+[06-Dec-2021 22:26:14 Asia/Ulaanbaatar] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 20480 bytes) in /home/brbmn/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterface.php on line 3367
+[07-Dec-2021 01:40:37 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 69632 bytes) in /home/brbmn/public_html/vendor/composer/autoload_static.php on line 533
+[07-Dec-2021 01:40:37 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/brbmn/public_html/vendor/composer/autoload_static.php on line 2311
+[07-Dec-2021 13:25:06 Asia/Ulaanbaatar] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 81920 bytes) in /home/brbmn/public_html/vendor/composer/ClassLoader.php on line 480
+[08-Dec-2021 22:03:05 Asia/Ulaanbaatar] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in /home/brbmn/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 21
